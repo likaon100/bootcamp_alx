@@ -1,4 +1,7 @@
 liczby = set()
+#pusty zbior
+
+
 
 while True:
     a = input("Wprowadź liczbę albo napisz że 'koniec' aby to  zakończyć: ")
@@ -7,7 +10,7 @@ while True:
     liczba = int(a)
     liczby.add(liczba)
 print()
-print(len(liczby & set(range(1,101))))
+print(len(liczby & set(range(1,100))))
 print()
 
 print("( ͡° ͜ʖ ͡°)╭∩╮")
