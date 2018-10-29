@@ -1,7 +1,8 @@
 #sortowanie przez wybieranie
 #asert sprawdzenie - test
 #indeks (0,1,2,3,4)
-lista = [2,3,5,4,1]
+#ctrl + l = dodanie "#"
+lista = [2,3,5,4,1,9,10,12,22,33,44,66,1000,-1,0, 111111, 22222222]
 
 print ("Liczby przed:", lista)
 
