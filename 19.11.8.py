@@ -9,7 +9,9 @@ class Postac():
         self.atak = atak
         self.zdrowie = zdrowie
         self.max_zdrowie = zdrowie
-        self.ekwipunek = {kij, pała, miecz, tulipan}
+        self.ekwipunek = []
+
+
 
     def przedstaw_sie(self):
         # print(f"Jestem {self.imie}, mam {self.atak} ataku i {self.zdrowie}/{self.max_zdrowie} życia")
@@ -56,7 +58,6 @@ rufus = Postac("Rufus", 13, 3000)
 agata = Postac("agata", 34, 2500)
 
 tulipan = Przedmiot('wombat', 5)
-rufus.
 
 
 
